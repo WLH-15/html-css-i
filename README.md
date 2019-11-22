@@ -52,6 +52,10 @@
 
 </details>
 
+# Lecture Slides
+
+https://slides.com/mattbodily/html-css-one
+
 # HTML/CSS I Lecture Notes
 
 <details open>
