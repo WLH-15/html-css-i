@@ -54,7 +54,7 @@
 
 # Lecture Slides
 
-https://slides.com/mattbodily/html-css-one
+https://slides.com/matias_perez/html-css-one/#/
 
 # HTML/CSS I Lecture Notes
 
